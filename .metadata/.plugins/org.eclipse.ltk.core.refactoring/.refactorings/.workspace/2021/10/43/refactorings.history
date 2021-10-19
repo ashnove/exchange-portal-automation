@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;webportal&apos; to &apos;exchange-web-portal-ui-automation&apos;&#x0A;- Original element: &apos;webportal&apos;&#x0A;- Renamed element: &apos;webportal&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;webportal&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=webportal" name="exchange-web-portal-ui-automation" references="true" stamp="1634634714694" version="1.0"/>
+</session>

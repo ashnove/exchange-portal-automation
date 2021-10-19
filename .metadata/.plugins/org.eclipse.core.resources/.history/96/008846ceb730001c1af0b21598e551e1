@@ -1,0 +1,19 @@
+package ui;
+
+import org.testng.annotations.Test;
+
+public class LoginTest {
+	
+	@Test(priority=1,description="This is a login test")
+	public void bloginTest() {
+		
+		System.out.println("Login succesful!");
+		
+	}
+	
+	@Test(priority=2,description="This is a logout test")
+	public void alogoutTest() {
+		System.out.println("Logout Successfull");
+	}
+
+}

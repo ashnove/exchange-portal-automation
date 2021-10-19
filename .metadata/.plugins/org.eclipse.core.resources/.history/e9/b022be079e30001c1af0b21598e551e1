@@ -1,0 +1,19 @@
+package ui;
+
+import org.testng.annotations.Test;
+
+public class LoginTest {
+	
+	@Test
+	public void loginTest() {
+		
+		System.out.println("Login succesful!");
+		
+	}
+	
+	@Test
+	public vodi logoutTest() {
+		System.out.println("Logout Successfull");
+	}
+
+}

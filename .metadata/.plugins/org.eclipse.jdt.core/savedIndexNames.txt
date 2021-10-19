@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/ashnove/Documents/NETMEDS-WORK/selenium-learn/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2470476600.index
+3619386262.index
